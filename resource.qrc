@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/bg.png</file>
+        <file>Image/bird.ico</file>
+        <file>Image/bird1.png</file>
+        <file>Image/bird2.png</file>
+        <file>Image/bird3.png</file>
+        <file>Image/floor.png</file>
+        <file>Image/pipe1.png</file>
+        <file>Image/pipe2.png</file>
+        <file>Soundeffect/DAMN SON!.mp3</file>
+        <file>Soundeffect/Jump.mp3</file>
+        <file>Soundeffect/Punch.mp3</file>
+        <file>Soundeffect/He.mp3</file>
+        <file>Soundeffect/SpongeBob.mp3</file>
+    </qresource>
+</RCC>
